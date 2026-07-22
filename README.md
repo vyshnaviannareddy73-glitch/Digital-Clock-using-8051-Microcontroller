@@ -11,7 +11,7 @@ A hardware-based digital clock project designed and implemented using an 8051 mi
 
 <br />
 
-![Digital Clock Hardware](digital%20clock.jpeg)
+![Digital Clock Hardware](digital-clock.jpeg)
 
 </div>
 
@@ -21,7 +21,7 @@ A hardware-based digital clock project designed and implemented using an 8051 mi
 
 | Breadboard Overview | Display Setup | Circuit & Controls |
 | :---: | :---: | :---: |
-| ![Overview](digital%20clock.jpeg) | ![Display](digital%20clock1.jpeg) | ![Controls](dital%20clock2.jpeg) |
+| ![Overview](digital-clock.jpeg) | ![Display](digital-clock-1.jpeg) | ![Controls](digital-clock-2.jpeg) |
 
 ---
 
